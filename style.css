@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(241, 173, 156);
+}
+#projects {
+  background-color: #f0acac;
+}
+.card-img-top {
+  width: 300px; /* Set the desired width in pixels */
+  height: 200px; /* Set the desired height in pixels */
+}
